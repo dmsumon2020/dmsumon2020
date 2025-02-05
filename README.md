@@ -1,6 +1,6 @@
-<div align="center">
+
   ![Banner](https://i.imgur.com/IFbynBa.jpeg)
-</div>
+
 
 
 ###
