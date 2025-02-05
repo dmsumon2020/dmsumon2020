@@ -36,6 +36,14 @@ I am a Web Developer specializing in **JavaScript, React.js, Next.js, Tailwind C
 
 ---
 
+### 🔥 My Current Activities
+
+- ⚡ Learning **Advanced ReactJS**  
+- ⚡ Exploring **more features on NextJS**  
+- ⚡ Creating a **Portfolio website using NextJS**  
+
+---
+
 ### 🛠 Skills I Have
 
 <div align="left">
@@ -80,14 +88,6 @@ I am a Web Developer specializing in **JavaScript, React.js, Next.js, Tailwind C
 
 ---
 
-### 🔥 My Current Activities
-
-- ⚡ Learning **Advanced ReactJS**  
-- ⚡ Exploring **more features on NextJS**  
-- ⚡ Creating a **Portfolio website using NextJS**  
-
----
-<h3 align="left">Follow me on Social Media</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/dmsumoncse" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
