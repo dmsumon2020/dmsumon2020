@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/IFbynBa.jpeg)
+![Banner](https://i.imgur.com/UKQ9HLc.jpeg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dmsumoncse/" target="_blank">
