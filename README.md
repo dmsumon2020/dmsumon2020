@@ -91,7 +91,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  My Current Activities</h3>
+<h3 align="left">🔥  My Current Activities</h3>
 
 ###
 
