@@ -1,7 +1,8 @@
 <div align="center">
-  <img height="600" src="[https://i.ibb.co.com/390mPKZ3/banner.png](https://raw.githubusercontent.com/the-nazzmul/the-nazzmul/refs/heads/main/nazmul-hussain.png)"  />
+  <img height="600" src="https://raw.githubusercontent.com/the-nazzmul/the-nazzmul/refs/heads/main/nazmul-hussain.png"  />
 </div>
 
+###
 ###
 
 <div align="center">
