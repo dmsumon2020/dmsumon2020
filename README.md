@@ -90,3 +90,11 @@
 </div>
 
 ###
+
+<h3 align="left">👩‍💻  My Current Activities</h3>
+
+###
+
+<p align="left">- ⚡ Learning Advanced ReactJS<br>- ⚡ Exploring more featured on NextJS<br>- ⚡ Creating a Portfolio website using nextJS</p>
+
+###
