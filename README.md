@@ -31,7 +31,7 @@ I am a Web Developer specializing in **JavaScript, React.js, Next.js, Tailwind C
 
 ### 📬 Contact Me
 
-- 📧 **Email:** [dmsumoncse@gmail.com](mailto:dmsumoncse@gmail.com)  
+- 📧 **Email:** [dinmuhammadsumon@gmail.com](dinmuhammadsumon@gmail.com)  
 - 📞 **Phone:** +880-1304099124  
 
 ---
