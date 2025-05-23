@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/UKQ9HLc.jpeg)
+![Banner](https://github.com/dmsumon2020/dmsumon2020/blob/main/Din%20Muhammad%20Sumon.jpg?raw=true)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dinmuhammadsumon" target="_blank">
